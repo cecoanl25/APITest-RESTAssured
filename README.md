@@ -1,7 +1,6 @@
 # API Test Projesi (REST Assured + JUnit)
 
 Bu proje, Yazılım Test Mühendisliği dersi kapsamında hazırlanmış bir otomasyon test projesidir.  
-Amaç, RESTful bir API'ye GET ve POST istekleri göndererek, gelen yanıtları JUnit kullanarak test etmektir.
 
 ## Kullanılan Teknolojiler
 - Java
